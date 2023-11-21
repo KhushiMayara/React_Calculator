@@ -1,0 +1,7 @@
+.calculatorInput {
+  margin: 1px;
+  width: 100%;
+  padding: 10px;
+  outline: none;
+  border: 1px solid #dadada;
+}

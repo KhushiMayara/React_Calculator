@@ -1,0 +1,15 @@
+.btnContainer {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+
+.calculatorBtn {
+  width: 60px;
+  height: 60px;
+  font-size: 20px;
+  border: 1px solid #dadada;
+  border-radius: 5px;
+  margin: 5px;
+}
